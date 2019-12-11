@@ -3,7 +3,7 @@
 
 ## Documentation
 
-> Will be available soon.
+> https://github.com/artak10t/RenderEngine/wiki
 
 ## :clipboard: Meta
 
